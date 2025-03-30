@@ -30,10 +30,12 @@ Peaks in infection and case fatality are identified at different times, coincidi
 The daily infection rate shows more marked fluctuations compared to the case fatality rate, suggesting that mitigation strategies have reduced the impact on mortality over time.
 
 ## Additional Insights
-### Use of Data by Income Level: Although data segmented by income were not used in the final visualization, they could provide valuable insights into the economic impact of COVID-19.
-### Potential Extensions: The analysis could be expanded by incorporating data on vaccination and its impact on reducing cases and deaths. 
-### Improved Accuracy: Integrating predictive models could allow for estimates of the future evolution of the virus and its impact in different regions.
-This study provides a solid foundation for future research and enables health policymakers to make informed decisions about pandemic management.
+### Use of Data by Income Level: 
+Although data segmented by income were not used in the final visualization, they could provide valuable insights into the economic impact of COVID-19.
+### Potential Extensions: 
+The analysis could be expanded by incorporating data on vaccination and its impact on reducing cases and deaths. 
+### Improved Accuracy: 
+Integrating predictive models could allow for estimates of the future evolution of the virus and its impact in different regions.
 
 ## Visualization:
 Link for dynamic dashboard: https://public.tableau.com/app/profile/erick.torres7629/viz/CovidCasesDeaths_16965682303990/Dashboard1
