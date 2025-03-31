@@ -1,4 +1,4 @@
-# Exploatory Data Analysis of COVID-19
+# Exploratory Data Analysis of COVID-19
 
 Dataset: https://ourworldindata.org/covid-deaths
 
